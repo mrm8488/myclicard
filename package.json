@@ -1,0 +1,36 @@
+{
+  "name": "myclicard",
+  "version": "1.0.0",
+  "description": "A personal CLI card for Manuel Romero (@mrm8488)",
+  "main": "index.js",
+  "bin": {
+    "myclicard": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrm8488/myclicard.git"
+  },
+  "keywords": [
+    "CLI",
+    "card",
+    "developer",
+    "information"
+  ],
+  "author": "Manuel Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrm8488/myclicard/issues"
+  },
+  "homepage": "https://github.com/mrm8488/myclicard#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

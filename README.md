@@ -1,2 +1,2 @@
 # myclicard
-CLI Card with my profesional information
+CLI Card with my profesional information (links)
